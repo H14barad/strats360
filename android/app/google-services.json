@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952800938688",
+    "project_id": "strats360-e7a3a",
+    "storage_bucket": "strats360-e7a3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952800938688:android:f765699e919c9bb5e93b25",
+        "android_client_info": {
+          "package_name": "com.example.strats360"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952800938688-3g5f5c4iffb81sgdi5ivvruj650mluuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzvyEz6amSdR9Mgh-7Ibh_ICQJD_wZn28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952800938688-3g5f5c4iffb81sgdi5ivvruj650mluuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

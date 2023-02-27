@@ -86,7 +86,8 @@ class _DATAState extends State<DATA> {
                                   },
                                   child: widget.Opration=="edit"?Icon(Icons.edit):Container()),
                             ],
-                          )
+                          ),
+                          Text("HIIIII"),
                         ],
                       ),
                     ),
